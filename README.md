@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Birk</h1>
 <h3 align="center">A mobile software developer from Germany</h3>
 
-- 🌱 I’m currently learning **next.js and TypeScript**
+- 🌱 I’m currently learning **Swift**
 
 - 💬 Ask me about **MAUI/Xamarin.Forms**
 
