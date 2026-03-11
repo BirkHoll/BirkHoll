@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Birk</h1>
-<h3 align="center">A mobile software developer from Germany</h3>
+<h3 align="center">I'm a 24 year old mobile software developer from Germany</h3>
 
-- 🌱 I’m currently learning **Swift**
+- 🌱 I’m currently building an app with **Swift**
 
-- 💬 Ask me about **MAUI/Xamarin.Forms**
+- 💬 Ask me anything about software development. I'm always happy to learn new things.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
