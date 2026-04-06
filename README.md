@@ -3,8 +3,8 @@
 
 - 🌱 I’m currently building an app with **Swift**
 
-- 💬 Ask me anything about software development. I'm always happy to learn new things.
-
+- 💬 Ask me anything about software development. I'm always interested in learning new things.
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/birk-hollander" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="birk-hollander" height="30" width="40" /></a>
